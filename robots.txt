@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ptedoe.github.io/zzE/sitemap.zzE.gz
